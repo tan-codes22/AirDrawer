@@ -4,6 +4,8 @@ AirDrawer is a browser-based augmented reality drawing application that lets use
 
 ## Features
 
+Features are
+
 * Real-time hand tracking using webcam input
 * Air drawing with hand gestures
 * Gesture-based controls for drawing interactions
